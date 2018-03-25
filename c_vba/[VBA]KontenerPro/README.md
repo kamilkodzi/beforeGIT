@@ -1,7 +1,7 @@
-#**#automatic**
-#**#consolidation**
-#**#time_savings**
-#**#transpareon_upload**
+# **#automatic**
+# **#consolidation**
+# **#time_savings**
+# **#transpareon_upload**
 _____
 **A`s**
 Simplify and reduce average time of plan preparation data at primary team. 

@@ -1,14 +1,14 @@
-#**#automatic**
-#**#pre_plan**
-#**#small_rigids_loading**
-#**#last_drops_loading**
-#**#hub_loading**
-#**#change_to_direct**
-#**#change_TW**
-#**#automatic_splitting**
-#**#dynamic_vehicle_access**
+# **#automatic**
+# **#pre_plan**
+# **#small_rigids_loading**
+# **#last_drops_loading**
+# **#hub_loading**
+# **#change_to_direct**
+# **#change_TW**
+# **#automatic_splitting**
+# **#dynamic_vehicle_access**
 
-#**#one_step_before_automatic_planning !**
+# **#one_step_before_automatic_planning !**
 _____
 **A`s**
 Simplify and reduce average time of plan preparation up to 90%().
